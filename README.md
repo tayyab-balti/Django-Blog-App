@@ -23,8 +23,8 @@ A simple and clean blog platform built with Django — featuring posts, comments
 ---
 
 ## 📷 Screenshots
+![Image](https://github.com/user-attachments/assets/88c9fdbc-6a45-4ff8-a814-ba1cd810e84e)
 
-a
 ---
 
 ## ⚙️ How to Run Locally
